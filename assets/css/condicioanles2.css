@@ -2,7 +2,10 @@
     display: flex;
     justify-content: center;
   }
-
+    img {
+      width: 150px;
+      height: 250px;
+    }
   .grow1 {
     display: flex;
     flex-direction: column;
